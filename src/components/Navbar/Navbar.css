@@ -1,0 +1,28 @@
+.nav-container{
+    position: static;
+    z-index: 3;
+    top :0 ;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 15vh;
+    background-color: #1b1b1b;
+}
+
+.navbar-logo{
+    justify-self: start;
+    margin-left: 20px;
+    color: white;
+    margin-top: 4vh;
+    cursor: pointer;
+}
+
+.Carrito{
+    font-size: 25px;
+    margin-right: 20px;
+    margin-top: 4vh;
+    cursor: pointer;
+    text-decoration:  none;
+}
