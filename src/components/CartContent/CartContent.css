@@ -1,0 +1,35 @@
+.cartContent {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 30px;
+}
+
+.cartContent > img{
+    height: 120px;
+    width: 100px;
+    text-align: center;
+}
+
+.cartTotal {
+    text-align: center;
+}
+
+.cart-messager-center{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+    
+}
+
+.boton-final{
+    margin: 100px;
+    background-color: blueviolet;
+    
+}
+
+.boton-final:hover{
+    background-color: red;
+    
+}

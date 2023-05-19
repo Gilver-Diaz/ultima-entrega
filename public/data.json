@@ -3,21 +3,21 @@
     "id":1,
     "name":"Tesla Model S",
     "price": "$ 50.000 ",
-    "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elconfidencial.com%2Ftecnologia%2F2016-08-23%2Ftesla-model-s-elon-musk-coches-electricos_1250607%2F&psig=AOvVaw1zzuNXSWOosnC5nX3G5dbF&ust=1683273046545000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKD99PGW2_4CFQAAAAAdAAAAABAI"
+    "img": "https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Model-S-Main-Hero-Desktop-LHD"
    },
 
    {
      "id":2,
      "name":"Tesla Model X",
      "price": "$ 100.000",
-     "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.co.uk%2Farticle%2Ftesla-model-x&psig=AOvVaw1UNy_-x5whrwH3-1DsrIIk&ust=1683273227507000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDDo8qX2_4CFQAAAAAdAAAAABAE"
+     "img": "https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Model-Y-Main-Hero-Desktop-Global"
      
    },
    {
     "id":3,
     "name":"Tesla Model Y",
     "price": "$70.000",
-    "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fhipertextual.com%2F2020%2F02%2Ftesla-model-y-version-final&psig=AOvVaw0wYOp0m7-LFYoc6hDHAWwz&ust=1683273491441000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDQksaY2_4CFQAAAAAdAAAAABAE"
+    "img":"https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Model-X-Main-Hero-Desktop-LHD"
 
    },
 
@@ -25,7 +25,7 @@
     "id":4,
     "name":"Tesla Model 3",
     "price":"$40.000",
-    "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.marca.com%2Fcoches-y-motos%2Fcoches%2Ftesla%2F2022%2F11%2F29%2F6386482fe2704ea50d8b45df.html&psig=AOvVaw1ThQ77b6heUEEhkNGgVUNS&ust=1683273531267000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiem9mY2_4CFQAAAAAdAAAAABAE"
+    "img":"https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Model-3-Main-Hero-Desktop-LHD"
    },
    {
     "id":5,

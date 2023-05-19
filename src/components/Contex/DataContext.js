@@ -1,16 +1,19 @@
-import {  createContext , useState, useEffect} from "react";
+import {  createContext , useState, useEffect, useContext} from "react";
 import axios from "axios";
 
- export const dataContext = createContext ();
+export const DataContext = createContext ();
+export const useDataContext = () => useContext(DataContext);
 
-const DataProvider =({ Children })=>{
+const DataProvider =({ children })=>{
+
      const [data, setData]= useState([]);
+     const [cart, setCart]= useState([]);
 
      useEffect (()=>{
         axios("data.json").then((res) => setData(res.data));  
      },[])
 
-    return <dataContext.Provider value={{ data }} >{Children}</dataContext.Provider>;
+    return <DataContext.Provider value={{ data ,cart, setCart}} >{children}</DataContext.Provider>;
      
 };
 

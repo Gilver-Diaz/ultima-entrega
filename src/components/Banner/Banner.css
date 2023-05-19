@@ -3,8 +3,8 @@
     background-position: center;
     height: 100vh;
 
-    background-image: linear-gradient(rgba(0,0,0,0.4) rgba(0,0,0,0.4)),
-    url(https://img.freepik.com/psd-premium/maqueta-logotipo_35913-2089.jpg?w=826)
+    background-image:
+    url(https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Model-X-Interior-Hero-Desktop-LHD)
 }
 .banner-container{
     text-align: center;
@@ -17,11 +17,13 @@
     text-shadow: 1px 1px 3px  rgba(0,0,0,0.2);
     font-size: 62px;
     font-weight: bold;
+    height: 100px;
+    
 }
 
 .banner p{
     font-size: 30px;
-    color:  blue;
+    color:  rgb(238, 238, 247);
     opacity: 0.7;
     text-shadow:1px 1px 3px rgba(0,0,0,0.2) ;
 
